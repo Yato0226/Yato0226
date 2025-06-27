@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20Master!;I'm%20Yato0226;Welcome%20to%20my%20profile!&font=Fira%20Code&size=30&duration=3000&center=true&vCenter=true&width=500&height=60&color=f7df1e&loop=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;I'm%20Yato0226;Welcome%20to%20my%20profile!&font=Fira%20Code&size=30&duration=3000&center=true&vCenter=true&width=500&height=60&color=f7df1e&loop=true" alt="Typing SVG"/>
 </div>
 
 ---
@@ -20,7 +20,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yato0226&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yato0226&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Yato0226&theme=dark&hide_border=true)
 
 </div>
 
