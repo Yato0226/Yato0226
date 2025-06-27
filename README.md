@@ -25,6 +25,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=random" alt="Random Quote"/>
+</div>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="center">
