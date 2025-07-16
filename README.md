@@ -41,7 +41,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Yato0226)
-</p>
