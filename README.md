@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Yato0226/count.svg" alt="Profile views"/>
+  ![](https://komarev.com/ghpvc/?username=Yato0226)
 </p>
