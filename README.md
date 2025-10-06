@@ -22,8 +22,6 @@
 
 [![Yato0226's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yato0226&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://ghchart.rshah.org/409ba5/Yato0226" alt="Yato0226's GitHub contributions calendar" />
-
 </div>
 
 ---
