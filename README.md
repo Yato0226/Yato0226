@@ -18,11 +18,11 @@
 
 <div align="center">
 
-[![Yato0226's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yato0226&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yato0226&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Yato0226's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yato0226&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://ghchart.rshah.org/409ba5/Yato0226" alt="Yato0226's GitHub contributions calendar" />
 
 </div>
 
