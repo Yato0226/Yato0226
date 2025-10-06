@@ -21,7 +21,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yato0226&theme=tokyonight)](https://git.io/streak-stats)
 
 [![YOUR_USERNAME's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yato0226&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub Snake](https://raw.githubusercontent.com/Yato0226/Yato0226/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
