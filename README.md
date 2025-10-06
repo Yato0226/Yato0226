@@ -21,7 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yato0226&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yato0226&layout=compact&theme=dark)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yato0226)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yato0226)](https://git.io/streak-stats)
 
 </div>
 
