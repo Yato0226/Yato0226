@@ -20,6 +20,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yato0226&theme=tokyonight)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yato0226&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![YOUR_USERNAME's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yato0226&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
